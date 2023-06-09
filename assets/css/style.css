@@ -560,7 +560,7 @@ h6 {
 }
 
 .portfolio-details .portfolio-info {
-  padding: 30px;
+  padding: 20px;
   box-shadow: 0px 0 30px rgba(69, 80, 91, 0.08);
 }
 
@@ -610,7 +610,8 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-top:40px;
+  padding-bottom: 0px;
 }
 
 .section-title h2 {
