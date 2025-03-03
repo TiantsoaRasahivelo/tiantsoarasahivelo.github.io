@@ -283,7 +283,7 @@ h6 {
 }
 
 .feature-2 h4{
-    font-size: 17px;
+    font-size: 20px;
     color: #0563bb;
     padding-bottom: 0px;
     font-weight: 300;
@@ -539,7 +539,7 @@ h6 {
 }
 
 .portfolio-details .portfolio-details-slider img {
-  width: 100%;
+  width: 10px;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
